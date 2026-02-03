@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, estou nicolly</h1>
+<h1 align="center">Oi 👋, eu sou a nicolly</h1>
 <h3 align="left">Connect comigo:</h3>
 <p align="esquerda">
 </p>
